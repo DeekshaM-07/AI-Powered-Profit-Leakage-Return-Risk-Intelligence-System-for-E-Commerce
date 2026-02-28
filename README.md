@@ -17,6 +17,8 @@ It helps answer:
 - Pandas
 - NumPy
 - Scikit-learn (Machine Learning Model)
+- Random Forest Algorithm
+- Linear Regression
 - Matplotlib
 - Kaggle Dataset
 
@@ -24,10 +26,26 @@ It helps answer:
 
 ## 🤖 AI Implementation
 
-- Built a Return Risk Prediction Model using Logistic Regression
-- Generated Return Probability Score
-- Created AI-Based Action Suggestions for Business Decisions
+This project uses machine learning to predict returns and future profit.
 
+### 1️⃣ Return Risk Prediction
+- Model Used: Random Forest
+- It predicts whether an order will be returned or not.
+- It gives a return probability score.
+- Orders are classified as Low, Medium, or High Risk.
+
+### 2️⃣ Profit Forecasting
+- Model Used: Linear Regression
+- It predicts profit for the next 3 months.
+- Helps understand future revenue trends.
+
+### 3️⃣ AI Suggestions
+- Based on return risk, profit margin, delivery time, and discount.
+- Automatically suggests actions like:
+  - Reduce discounts
+  - Improve delivery speed
+  - Review high-risk products
+    
 ---
 
 ## 📊 Dashboard Features
