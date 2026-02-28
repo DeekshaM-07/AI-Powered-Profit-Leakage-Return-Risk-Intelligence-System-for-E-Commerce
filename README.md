@@ -53,9 +53,9 @@ It helps answer:
 
 ## 📷 Dashboard Preview
 
-### Main Dashboard ![Main Dashboard](main.png)
-### AI Insights ![AI Insights](ai.png) 
-### High Risk Analysis ![High Risk](risk.png)
+### Main Dashboard ![Main Dashboard](Main_Dashboard.png)
+### AI Insights ![AI Insights](AI_Insights.png) 
+### High Risk Analysis ![High Risk](High_Risk.png)
 
 ---
 
